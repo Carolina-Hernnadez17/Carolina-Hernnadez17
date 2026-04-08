@@ -49,8 +49,8 @@ I am a responsible and self-motivated developer who enjoys solving problems, lea
 
 ## 📫 Connect with me
 
-- 💼 LinkedIn: https://linkedin.com/in/TU_USUARIO  
-- 💻 GitHub: https://github.com/TU_USUARIO  
+- 💼 LinkedIn: https://www.linkedin.com/in/mirianzepeda
+- 💻 GitHub: https://github.com/Carolina-Hernnadez17
 
 ---
 
