@@ -2,7 +2,7 @@
 
 🎓 Software Development Engineering Student  
 📍 Ahuachapán, El Salvador  
-💻 Junior Full Stack Developer  
+💻 Junior Developer  
 🚀 Passionate about building web applications and learning new technologies  
 
 ---
@@ -42,9 +42,6 @@ I am a responsible and self-motivated developer who enjoys solving problems, lea
 
 ## 📊 GitHub Stats
 
-![Carolina's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight)
 
